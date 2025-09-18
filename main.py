@@ -99,5 +99,4 @@ report = dp.Report(
 #guardar el reporte en HTML
 report.save(path="reporte_dados_paridad.html", open=False)
 
-print("Reporte guardado en: reporte_dados_paridad.html")
-print("Abre ese archivo en tu navegador para ver el informe.")
+
